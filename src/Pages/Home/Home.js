@@ -25,7 +25,7 @@ const Home = () => {
 
         <div className="container home-content">
           <Fade right>
-            <h2>Hi 👋 I'm </h2>
+            <h2>Hi 👋 I'm a</h2>
             <h1>
               <Typewriter
                 options={{
